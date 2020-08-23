@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Modul 4 Implisit Intent</string>
+
+    <string name="string_nomor_telepon">Masukkan nomor Handphone</string>
+    <string name="string_open_number">open dial phone</string>
+
+    <string name="string_masukkan_url">Masukkan url</string>
+    <string name="string_open_web">open browser</string>
+
+    <string name="string_buka_lokasi">Buka lokasi</string>
+    <string name="string_open_location">open location</string>
+
+    <string name="string_masukkan_text">Masukkan text</string>
+    <string name="string_share_text">share text</string>
+
+</resources>
